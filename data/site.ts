@@ -1,0 +1,30 @@
+export const site = {
+  name: 'BLINK Jordan',
+  logo: '/blink-logo.jpg',
+  announcement: { enabled: true, text: 'Everyday pieces. Your way.' },
+  instagram: 'https://www.instagram.com/blink.jordan/',
+  whatsapp: null,
+  address: null,
+  hours: null,
+  hero: {
+    desktopImage: '',
+    mobileImage: '',
+    desktopPosition: 'center 40%',
+    mobilePosition: '100% center',
+  },
+  editorial: { image: '', title: 'OWN THE MOMENT.', cta: 'EXPLORE THE EDIT' },
+};
+export const governorates = [
+  'Amman',
+  'Ajloun',
+  'Aqaba',
+  'Balqa',
+  'Irbid',
+  'Jerash',
+  'Karak',
+  'Ma’an',
+  'Madaba',
+  'Mafraq',
+  'Tafilah',
+  'Zarqa',
+];
