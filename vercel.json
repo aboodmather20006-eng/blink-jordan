@@ -1,0 +1,6 @@
+{
+  "framework": "vite",
+  "buildCommand": "vinext build",
+  "outputDirectory": "dist/client",
+  "cleanUrls": true
+}
